@@ -1,0 +1,134 @@
+/* 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(36, 196, 250);
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: rgb(36, 196, 250);
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+.Lienprojet {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+h3 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 14px;
+  color: rgb(6, 6, 6);
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 15px;
+  line-height: 16pt;
+}
+
+header {
+  background-color: #f1f1f1;
+  font-family: "Montserrat", sans-serif;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#ProfilePic {
+  border-radius: 100%;
+  width: 34vh;
+  height: 34vh;
+  margin: 8vh 3vw;
+}
+
+#myQuote {
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  margin: 2vh;
+  width: 40vw;
+  text-align: center;
+  line-height: 18pt;
+}
+
+#Moto {
+  font-weight: 600;
+}
+
+main {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: row;
+}
+
+section {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgba(255, 255, 255, 0.45);
+  margin: 30px 30px;
+  padding: 20px 15px;
+  width: 40vw;
+}
+
+#section3 {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgba(255, 255, 255, 0.45);
+  margin: 30px 30px;
+  padding: 20px 30px;
+  width: 15vw;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  margin: 20px 0;
+  text-decoration: none;
+  color: white;
+}
+
+.a2 {
+  font-family: "Montserrat", sans-serif;
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+li {
+  list-style-type: disc;
+  font-weight: 600;
+  margin-left: 8px;
+  margin-bottom: 8px;
+  line-height: 20pt;
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+
+  background-color: black;
+  min-height: 15vh;
+  display: flex;
+  justify-content: center;
+}
